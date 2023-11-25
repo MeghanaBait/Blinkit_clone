@@ -8,14 +8,10 @@
     font-family: var(--font-family);
 }
 
-body {
-    margin: 0;
-}
 /* header section */
 
 header .container{
     display: flex;
-    justify-content: space-between;
     align-items: center;
     position: fixed;
     top:0;
